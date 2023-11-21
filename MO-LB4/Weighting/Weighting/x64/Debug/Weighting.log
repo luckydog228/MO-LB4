@@ -1,0 +1,6 @@
+﻿  Weighting.cpp
+D:\Labs\MO-LB4\Weighting\Weighting\Weighting.cpp(10,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO-LB4\Weighting\Weighting\Weighting.cpp(11,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO-LB4\Weighting\Weighting\Weighting.cpp(57,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO-LB4\Weighting\Weighting\Weighting.cpp(96,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Weighting.vcxproj -> D:\Labs\MO-LB4\Weighting\x64\Debug\Weighting.exe

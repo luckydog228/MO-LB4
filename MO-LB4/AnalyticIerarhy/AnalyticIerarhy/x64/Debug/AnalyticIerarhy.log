@@ -1,0 +1,5 @@
+﻿  AnalyticIerarhy.cpp
+D:\Labs\MO-LB4\AnalyticIerarhy\AnalyticIerarhy\AnalyticIerarhy.cpp(9,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO-LB4\AnalyticIerarhy\AnalyticIerarhy\AnalyticIerarhy.cpp(10,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\MO-LB4\AnalyticIerarhy\AnalyticIerarhy\AnalyticIerarhy.cpp(81,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  AnalyticIerarhy.vcxproj -> D:\Labs\MO-LB4\AnalyticIerarhy\x64\Debug\AnalyticIerarhy.exe

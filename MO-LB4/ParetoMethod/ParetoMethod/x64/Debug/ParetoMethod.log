@@ -1,0 +1,52 @@
+﻿  Source.cpp
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(18,51): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(18,43): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(39,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(39,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(40,58): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(40,44): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(45,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(45,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(46,48): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(46,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(72,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(72,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(80,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(80,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(86,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(86,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(93,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Labs\MO-LB4\ParetoMethod\ParetoMethod\Source.cpp(93,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ParetoMethod.vcxproj -> D:\Labs\MO-LB4\ParetoMethod\x64\Debug\ParetoMethod.exe

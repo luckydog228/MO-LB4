@@ -1,0 +1,3 @@
+﻿  ReplacingCriteria.cpp
+D:\Labs\MO-LB4\ReplacingCriteria\ReplacingCriteria\ReplacingCriteria.cpp(52,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ReplacingCriteria.vcxproj -> D:\Labs\MO-LB4\ReplacingCriteria\x64\Debug\ReplacingCriteria.exe
